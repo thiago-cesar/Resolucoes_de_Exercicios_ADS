@@ -1,0 +1,9 @@
+﻿  Origem.cpp
+C:\Users\Thiago\source\repos\Exercicio2\Exercicio2\Origem.cpp(39,33): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Thiago\source\repos\Exercicio2\Exercicio2\Origem.cpp(79,27): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Thiago\source\repos\Exercicio2\Exercicio2\Origem.cpp(83,29): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Thiago\source\repos\Exercicio2\Exercicio2\Origem.cpp(96,27): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Thiago\source\repos\Exercicio2\Exercicio2\Origem.cpp(101,29): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Thiago\source\repos\Exercicio2\Exercicio2\Origem.cpp(121,27): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Thiago\source\repos\Exercicio2\Exercicio2\Origem.cpp(137,27): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+  Exercicio2.vcxproj -> C:\Users\Thiago\source\repos\Exercicio2\Debug\Exercicio2.exe
